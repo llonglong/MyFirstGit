@@ -8,4 +8,8 @@ public class HelloGit {
 		System.out.println("Hello Git");
 	}
 
+	public void A() {
+		System.out.println("A");
+	}
+
 }
