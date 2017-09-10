@@ -15,5 +15,11 @@ public class HelloGit {
 	public void B() {
 		System.out.println("B");
 	}
+	
+	public void C() {
+		for (int i = 0; i < 100; i++) {
+			System.out.println(i);
+		}
+	}
 
 }
